@@ -1,3 +1,3 @@
-# PARTE-2-POKEDEX
+# POKEDEX
 
 Teste de Commit
